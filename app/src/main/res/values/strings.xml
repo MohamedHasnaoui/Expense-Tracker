@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title_label">Title</string>
+    <string name="amount_label">Amount</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="category_label">Category</string>
+    <string-array name="categories">
+        <item>Leisure</item>
+        <item>Food</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+    <string name="category_leisure">Leisure</string>
+    <string name="category_work">Work</string>
+    <string name="category_food">Food</string>
+    <string name="category_other">Other</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_dark_color">#8547F1</color>
+    <color name="primary_light_color">#DBC6FF</color>
+    <color name="green">#7AA95C</color>
+    <color name="gray">#D4D3DC</color>
+    <color name="darker">#18534F</color>
+    <color name="bgBtn">#317AC1</color>
+    <color name="hintColor">#4A919E</color>
+    <color name="leisure_color">#FF5722</color> <!-- Orange -->
+    <color name="food_color">#4CAF50</color>    <!-- Green -->
+    <color name="work_color">#2196F3</color>    <!-- Blue -->
+    <color name="other_color">#9C27B0</color>  <!-- Purple -->
+</resources>
